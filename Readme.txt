@@ -1,0 +1,1 @@
+参考 Elasticsearch Essentials ，把ES2的API改造为ES5
